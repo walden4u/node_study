@@ -10,7 +10,7 @@ app.get('/', function(req, res) {
 });
 
 app.get('/main', function(req, res) {
-  res.send('<h1>hi friend!</h1>');
+  res.send('<h1>hi friend!!!</h1>');
   //  res.sendFile(__dirname + '/public/main.html');
 });
 
